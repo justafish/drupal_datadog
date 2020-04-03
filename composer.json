@@ -1,0 +1,24 @@
+{
+    "name": "drupal/datadog",
+    "description": "Logs events to DataDog.",
+    "type": "drupal-module",
+    "homepage": "https://drupal.org/project/datadog",
+    "authors": [
+        {
+            "name": "Sally Young (justafish)",
+	    "email": "sally@justafish.co.uk",
+            "homepage": "https://www.drupal.org/u/mpdonadio",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://drupal.org/project/issues/datadog",
+        "source": "https://git.drupalcode.org/project/logs_http"
+    },
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/logs_http": "~1.0"
+    }
+}
+

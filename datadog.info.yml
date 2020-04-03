@@ -1,0 +1,8 @@
+type: module
+name: DataDog
+description: 'Logs to DataDog with Logs HTTP API'
+package: Logs HTTP
+core: 8.x
+
+dependencies:
+  - logs_http:logs_http
