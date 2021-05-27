@@ -2,7 +2,7 @@ type: module
 name: DataDog
 description: 'Logs to DataDog with Logs HTTP API'
 package: Logs HTTP
-core_version_requirement: ’^8 || ^9’
+core_version_requirement: ^8 || ^9
 
 dependencies:
   - logs_http:logs_http
