@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\Datadog;
+namespace Drupal\datadog;
 
 use Drupal\logs_http\Logger\LogsHttpLogger;
 use Drupal\Core\Site\Settings;
